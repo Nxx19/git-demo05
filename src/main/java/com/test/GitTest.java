@@ -21,6 +21,7 @@ public class GitTest {
 
         System.out.println(123);
 
+        System.out.println("master commit");
 
     }
 
